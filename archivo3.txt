@@ -3,3 +3,4 @@ Ejemplo de escrito
 Esto es una modificación
 Esta linea debería tener un conflicto,
 a ver como lo vamos a resolver.
+Conflicto
